@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{710F1F95-E01C-405A-9157-15FFF5E4CDC6}|ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.vcxproj|C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{710F1F95-E01C-405A-9157-15FFF5E4CDC6}|ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.vcxproj|solutionrelative:ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710F1F95-E01C-405A-9157-15FFF5E4CDC6}|ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.vcxproj|C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\DoublyLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{710F1F95-E01C-405A-9157-15FFF5E4CDC6}|ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.vcxproj|solutionrelative:ListasDoblementeEnlazadas\\DoublyLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710F1F95-E01C-405A-9157-15FFF5E4CDC6}|ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.vcxproj|C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{710F1F95-E01C-405A-9157-15FFF5E4CDC6}|ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.vcxproj|solutionrelative:ListasDoblementeEnlazadas\\DoublyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710F1F95-E01C-405A-9157-15FFF5E4CDC6}|ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.vcxproj|C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{710F1F95-E01C-405A-9157-15FFF5E4CDC6}|ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.vcxproj|solutionrelative:ListasDoblementeEnlazadas\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710F1F95-E01C-405A-9157-15FFF5E4CDC6}|ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.vcxproj|C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{710F1F95-E01C-405A-9157-15FFF5E4CDC6}|ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.vcxproj|solutionrelative:ListasDoblementeEnlazadas\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoublyLinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\DoublyLinkedList.cpp",
+              "RelativeDocumentMoniker": "ListasDoblementeEnlazadas\\DoublyLinkedList.cpp",
+              "ToolTip": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\DoublyLinkedList.cpp",
+              "RelativeToolTip": "ListasDoblementeEnlazadas\\DoublyLinkedList.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T01:36:18.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoublyLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\DoublyLinkedList.h",
+              "RelativeDocumentMoniker": "ListasDoblementeEnlazadas\\DoublyLinkedList.h",
+              "ToolTip": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\DoublyLinkedList.h",
+              "RelativeToolTip": "ListasDoblementeEnlazadas\\DoublyLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T01:34:20.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\Node.cpp",
+              "RelativeDocumentMoniker": "ListasDoblementeEnlazadas\\Node.cpp",
+              "ToolTip": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\Node.cpp",
+              "RelativeToolTip": "ListasDoblementeEnlazadas\\Node.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T01:32:57.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.h",
+              "DocumentMoniker": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\Node.h",
+              "RelativeDocumentMoniker": "ListasDoblementeEnlazadas\\Node.h",
+              "ToolTip": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\Node.h",
+              "RelativeToolTip": "ListasDoblementeEnlazadas\\Node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T01:31:40.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListasDoblementeEnlazadas.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.cpp",
+              "RelativeDocumentMoniker": "ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.cpp",
+              "ToolTip": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.cpp",
+              "RelativeToolTip": "ListasDoblementeEnlazadas\\ListasDoblementeEnlazadas.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T01:29:47.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
