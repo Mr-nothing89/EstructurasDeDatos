@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\Graphs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2413FC-876D-4C37-A4D8-41F80DF07DA7}|Graphs\\Graphs.vcxproj|C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\Graphs\\Graphs\\Graphs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D2413FC-876D-4C37-A4D8-41F80DF07DA7}|Graphs\\Graphs.vcxproj|solutionrelative:Graphs\\Graphs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2413FC-876D-4C37-A4D8-41F80DF07DA7}|Graphs\\Graphs.vcxproj|C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\Graphs\\Graphs\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D2413FC-876D-4C37-A4D8-41F80DF07DA7}|Graphs\\Graphs.vcxproj|solutionrelative:Graphs\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2413FC-876D-4C37-A4D8-41F80DF07DA7}|Graphs\\Graphs.vcxproj|C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\Graphs\\Graphs\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D2413FC-876D-4C37-A4D8-41F80DF07DA7}|Graphs\\Graphs.vcxproj|solutionrelative:Graphs\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\Graphs\\Graphs\\Graph.cpp",
+              "RelativeDocumentMoniker": "Graphs\\Graph.cpp",
+              "ToolTip": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\Graphs\\Graphs\\Graph.cpp",
+              "RelativeToolTip": "Graphs\\Graph.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T00:42:29.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graph.h",
+              "DocumentMoniker": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\Graphs\\Graphs\\Graph.h",
+              "RelativeDocumentMoniker": "Graphs\\Graph.h",
+              "ToolTip": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\Graphs\\Graphs\\Graph.h",
+              "RelativeToolTip": "Graphs\\Graph.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T00:39:34.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graphs.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\Graphs\\Graphs\\Graphs.cpp",
+              "RelativeDocumentMoniker": "Graphs\\Graphs.cpp",
+              "ToolTip": "C:\\Users\\Lucio\\Desktop\\EstructuraDeDatos\\Graphs\\Graphs\\Graphs.cpp*",
+              "RelativeToolTip": "Graphs\\Graphs.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T00:38:10.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
